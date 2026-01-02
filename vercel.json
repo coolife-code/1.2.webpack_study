@@ -25,7 +25,5 @@
     }
   },
   "crons": [],
-  "analytics": {
-    "enabled": true
-  }
+  
 }

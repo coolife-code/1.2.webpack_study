@@ -24,8 +24,5 @@
       "APP_NAME": "Grok Chat App"
     }
   },
-  "crons": [],
-  "analytics": {
-    "enabled": true
-  }
+  "crons": []
 }
